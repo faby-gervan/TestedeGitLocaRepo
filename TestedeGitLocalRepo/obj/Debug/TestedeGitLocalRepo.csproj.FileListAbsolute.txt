@@ -1,0 +1,10 @@
+C:\Users\Faby\Desktop\TestedeGitLocalRepo\TestedeGitLocalRepo\bin\Debug\TestedeGitLocalRepo.exe.config
+C:\Users\Faby\Desktop\TestedeGitLocalRepo\TestedeGitLocalRepo\bin\Debug\TestedeGitLocalRepo.exe
+C:\Users\Faby\Desktop\TestedeGitLocalRepo\TestedeGitLocalRepo\bin\Debug\TestedeGitLocalRepo.pdb
+C:\Users\Faby\Desktop\TestedeGitLocalRepo\TestedeGitLocalRepo\obj\Debug\TestedeGitLocalRepo.csprojAssemblyReference.cache
+C:\Users\Faby\Desktop\TestedeGitLocalRepo\TestedeGitLocalRepo\obj\Debug\TestedeGitLocalRepo.Form1.resources
+C:\Users\Faby\Desktop\TestedeGitLocalRepo\TestedeGitLocalRepo\obj\Debug\TestedeGitLocalRepo.Properties.Resources.resources
+C:\Users\Faby\Desktop\TestedeGitLocalRepo\TestedeGitLocalRepo\obj\Debug\TestedeGitLocalRepo.csproj.GenerateResource.cache
+C:\Users\Faby\Desktop\TestedeGitLocalRepo\TestedeGitLocalRepo\obj\Debug\TestedeGitLocalRepo.csproj.CoreCompileInputs.cache
+C:\Users\Faby\Desktop\TestedeGitLocalRepo\TestedeGitLocalRepo\obj\Debug\TestedeGitLocalRepo.exe
+C:\Users\Faby\Desktop\TestedeGitLocalRepo\TestedeGitLocalRepo\obj\Debug\TestedeGitLocalRepo.pdb
